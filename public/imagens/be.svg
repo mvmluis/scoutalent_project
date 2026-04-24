@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="780" viewBox="0 0 900 780" preserveAspectRatio="xMidYMid meet">
+
+<rect width="900" height="780" fill="#000000"/>
+<rect x="300" width="300" height="780" fill="#FDDA24"/>
+<rect x="600" width="300" height="780" fill="#EF3340"/>
+
+</svg>
